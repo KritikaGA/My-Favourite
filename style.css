@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+    background-image:linear-gradient( 69.7deg,  rgba(244,37,243,1) 1.4%, rgba(244,87,1,1) 36.2%, rgba(255,204,37,1) 72.2%, rgba(20,196,6,1) 113% );
+}
+ 
+h1{
+    font-size: 40px;
+    font-size: fantasy;
+    font-weight: 300;
+}
+
+.line{
+    height:6px;
+    width:70px;
+    background-color:#03fc5e;
+    margin: 8px auto;
+}
